@@ -18,7 +18,7 @@ const result = `${leo}
 ${sarah} 
 
 ${divider} 
-    ${total}  ${(owed)}
+    ${total}${(owed)}
 ${divider} ` //used backtick to adjust layout
 
 console.log(result)
